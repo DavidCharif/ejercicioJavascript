@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: white;
+    color: rgb(0, 0, 0);
+    margin-top: 10%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+    size: 20%;
+}
+
+body{
+    background-color: rgb(175, 186, 189);
+}
+p{
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: white;
+    color: rgb(0, 0, 0);
+    
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+    
+}
+div {
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: white;
+    color: rgb(0, 0, 0);
+    
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+}
+button {
+    text-align: center;
+    top : 10px;
+
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+}
+
