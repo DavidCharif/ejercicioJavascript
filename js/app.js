@@ -26,7 +26,7 @@ document.getElementById("button").addEventListener("click", myFunction);
 
 function myFunction() {
     document.getElementById("button").innerHTML = "YOU CLICKED ME!";
-    document.body.style.backgroundColor = "#AA0000";
+    document.body.style.backgroundColor = "#AAA000";
   }
 /*
 if (edad < 30){
